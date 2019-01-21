@@ -1,3 +1,9 @@
+---
+title: "Nuxt + Tailwind + SCSS"
+date: 2019-01-21
+tags: [Nuxt, SCSS, Tailwind]
+category: "Installation"
+---
 # Nuxt + Tailwind + SCSS
 
 ## Install Nuxt
