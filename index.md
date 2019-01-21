@@ -1,3 +1,3 @@
-# Jordy Pereira
+# Welcome
 
-Here I will talk about my experiences as a web developer and the things I go through. Sometimes they will be usefull and sometimes they will be funny.
+✍🏻 I will try my best to explain things as clearly as possible. When something can be improved, please do let me know on my twitter. 
